@@ -59,7 +59,7 @@ backend/app/
 | Frontend | Streamlit |
 | Backend API | FastAPI, Pydantic, Uvicorn |
 | LLM | AWS Bedrock - `meta.llama3-70b-instruct-v1:0` |
-| Embeddings | AWS Bedrock — `amazon.titan-embed-text-v1` |
+| Embeddings | AWS Bedrock - `amazon.titan-embed-text-v1` |
 | Vector store | FAISS (`faiss-cpu`), via LangChain |
 | File parsing | PyPDF2, python-docx |
 | Infra | Docker, Docker Compose, GitHub Actions CI |

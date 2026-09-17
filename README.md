@@ -132,7 +132,7 @@ CI runs the test suite, lint, and Docker image builds automatically on every pus
 ---
 
 ## ⚠️ Notes
-- API-key auth (`REQUIRE_API_KEY`) is a minimal shared-secret check meant for keeping a demo deployment from being wide open — swap it for real OAuth2/JWT auth for multi-tenant production use.
+- API-key auth (`REQUIRE_API_KEY`) is a minimal shared-secret check meant for keeping a demo deployment from being wide open - swap it for real OAuth2/JWT auth for multi-tenant production use.
 - Scanned/image-only PDFs won't yield extractable text; use a text-based export instead.
 - The FAISS store here is local-disk and per-instance; for a multi-instance production deployment, swap in a managed vector DB (OpenSearch, pgvector, Pinecone) - `vector_store.py`'s `add_resume`/`query` functions are the only integration surface the rest of the app depends on.
 

@@ -145,4 +145,4 @@ CI runs the test suite, lint, and Docker image builds automatically on every pus
 
 ## 📄 License
 
-
+This project is licensed under the MIT License - free to use, modify, and distribute with attribution.

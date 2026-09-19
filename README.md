@@ -55,6 +55,7 @@ backend/app/
     ├── vector_store.py     # Per-user FAISS index create/query
     └── bedrock_client.py   # Bedrock invoke_model + prompt template
 ```
+---
 
 ## 🧰 Tech Stack
 

@@ -113,6 +113,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 📡 API Reference
 
 | Method | Endpoint | Description |

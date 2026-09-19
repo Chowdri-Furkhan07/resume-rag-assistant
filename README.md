@@ -18,6 +18,8 @@ Upload a resume → the backend chunks and embeds it into a per-user FAISS vecto
 - **Optional API-key auth**, health-check endpoint, and Docker healthchecks for both services.
 - **Dockerized** end-to-end via `docker-compose`, with a CI pipeline (pytest + ruff + Docker image builds) on GitHub Actions.
 
+---
+
 ## 🏗️ Architecture
 
 ```

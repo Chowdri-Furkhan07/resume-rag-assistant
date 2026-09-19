@@ -133,6 +133,8 @@ ruff check app
 ```
 CI runs the test suite, lint, and Docker image builds automatically on every push/PR to `main` (see `.github/workflows/ci.yml`).
 
+---
+
 ## 📸 Screenshots
 | Upload & Indexing | Results |
 |---|---|

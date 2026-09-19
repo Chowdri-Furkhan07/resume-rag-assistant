@@ -70,6 +70,8 @@ backend/app/
 | Infra | Docker, Docker Compose, GitHub Actions CI |
 | Testing | pytest, httpx |
 
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites

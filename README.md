@@ -35,6 +35,8 @@ Upload a resume → the backend chunks and embeds it into a per-user FAISS vecto
                                  └───────────────────┘
 ```
 
+---
+
 **Backend layout:**
 ```
 backend/app/

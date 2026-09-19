@@ -125,6 +125,8 @@ streamlit run app.py
 
 Interactive Swagger docs are available at `/docs` once the backend is running.
 
+---
+
 ## 🧪 Testing
 ```bash
 cd backend
